@@ -1,4 +1,3 @@
 print("hello world")
-print("india")
+print("tokyo")
 
-print("rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr")
